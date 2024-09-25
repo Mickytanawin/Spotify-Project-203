@@ -1,0 +1,110 @@
+Unnamed: 0,track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%
+21,I Can See You (Taylor's Version) (From The Vault),Taylor Swift,1,2023,7,7,516,38,52135248,73,119,42,1,150,123,F#,Major,69,82,76,6,0,6,3
+26,Calm Down (with Selena Gomez),Rema and Selena Gomez,2,2022,3,25,7112,77,899183384,202,119,318,38,96,107,B,Major,80,82,80,43,0,14,4
+36,Frágil ,"Yahritza Y Su Esencia, Grupo Frontera",2,2023,4,7,672,34,188933502,19,108,24,9,212,150,F#,Major,61,39,73,37,0,11,3
+60,Tá OK,"dennis, MC Kevin o Chris",2,2023,5,4,731,15,111947664,27,17,73,4,167,130,B,Major,86,59,96,50,1,9,5
+63,BESO,"Rauw Alejandro, Rosalía",2,2023,3,24,4053,50,357925728,82,121,182,12,171,95,F,Minor,77,53,64,74,0,17,14
+79,CORAZÓN VACÍO,Maria Becerra,1,2023,6,22,370,20,43857627,12,16,18,4,93,98,C#,Major,68,40,79,33,0,30,6
+82,Novidade na Área,"Mc Livinho, DJ Matt D",2,2023,6,23,267,9,39709092,9,6,25,2,72,130,F,Major,63,36,34,76,0,35,9
+93,Don't Blame Me,Taylor Swift,1,2017,11,8,4875,23,685032533,19,45,0,0,10,136,A,Minor,62,19,53,11,0,6,4
+112,LAGUNAS,"Jasiel Nuñez, Peso Pluma",2,2023,6,22,58,18,39058561,2,106,4,2,184,116,B,Major,77,79,62,33,1,15,3
+118,VAGABUNDO,"Sebastián Yatra, Manuel Turizo, Beéle",3,2023,5,12,1094,34,90839753,40,58,47,8,203,127,B,Minor,82,89,85,4,0,23,6
+125,Feliz Cumpleaños Ferxxo,Feid,1,2022,8,19,3430,38,601863821,45,69,52,4,3,95,F,Major,87,57,55,10,0,29,7
+141,Novo Balanço,"Veigh, Bvga Beatz, Supernova Ent, Prod Malax",4,2023,5,19,283,7,81102253,6,9,26,1,66,124,D#,Minor,84,65,50,67,0,13,6
+146,Ojitos Lindos,"Bomba Estéreo, Bad Bunny",2,2022,5,6,6135,38,1133865788,71,113,99,13,28,80,D#,Minor,65,27,69,8,0,53,4
+174,アイドル,YOASOBI,1,2023,4,12,356,16,143573775,35,102,8,1,117,166,C#,Major,57,84,94,11,0,37,9
+191,You Belong With Me (Taylor's Version),Taylor Swift,1,2021,4,9,2619,12,350381515,47,90,1,0,7,130,F#,Major,63,49,73,5,0,9,3
+192,Tití Me Preguntó,Bad Bunny,1,2022,5,6,9037,42,1264310836,124,133,139,14,166,107,F,Minor,65,19,72,10,0,13,25
+202,Acróstico,Shakira,1,2023,5,11,955,29,123124076,37,50,79,11,31,144,B,Major,75,35,48,84,0,10,12
+210,Abcdario,"Junior H, Edén Muñoz",2,2023,5,13,262,5,89933133,8,60,4,1,109,129,G#,Major,70,42,43,78,0,11,3
+212,Pişman Değilim,"Semicenk, Doğu Swag",2,2023,6,2,185,3,43522589,5,6,4,1,33,98,A#,Minor,73,45,62,28,0,13,13
+231,CUFF IT,Beyoncé,1,2022,7,29,7842,10,595900742,215,88,330,26,23,115,G,Major,78,64,69,4,0,7,14
+234,Niña Bonita,"Sean Paul, Feid",2,2023,4,21,1305,34,115010040,29,26,43,5,44,91,G,Major,82,47,62,10,0,10,15
+236,AMERICA HAS A PROBLEM (feat. Kendrick Lamar),"Kendrick Lamar, Beyoncé",2,2023,5,19,896,0,57089066,34,2,33,0,1,126,C#,Major,78,20,70,1,0,16,4
+247,Cartão Black,"MC Caverinha, KayBlack",2,2023,5,11,269,4,71573339,7,2,30,1,11,108,A,Minor,84,55,47,26,0,20,64
+249,Oi Balde - Ao Vivo,Zé Neto & Cristiano,1,2023,2,14,845,2,145458418,12,57,47,1,33,108,D,Major,67,55,67,60,0,80,5
+258,Conexões de Máfia (feat. Rich the Kid),"Rich The Kid, Matuê",2,2023,4,30,385,4,77233241,17,7,41,1,29,117,F#,Minor,77,69,58,39,0,26,5
+265,Cupid - Twin Ver. (FIFTY FIFTY) - Sped Up Version,sped up 8282,1,1997,1,1,472,2,103762518,0,0,6,0,0,144,F,Major,74,75,73,42,0,9,4
+275,Igualito a Mi Apá,"Fuerza Regida, Peso Pluma",2,2022,12,30,265,6,158950978,8,84,5,1,4,145,E,Minor,76,80,81,19,0,6,9
+278,Despechá,Rosalía,1,2022,7,28,7613,33,782369383,180,90,422,15,55,130,G,Major,92,78,62,18,0,6,10
+294,Rosa Pastel,"Jasiel Nuñez, Peso Pluma",2,2023,2,2,200,4,90025258,8,77,2,1,1,123,G,Minor,70,86,68,24,0,11,4
+301," Arcángel: Bzrp Music Sessions, Vol","Arcangel, Bizarrap",2,2023,3,22,654,3,100409613,11,3,18,1,1,124,B,Minor,72,79,78,55,0,15,30
+303,10:35,"Tiësto , Tate M",2,2022,11,1,4942,26,325592432,190,104,147,18,63,120,G#,Major,70,70,79,7,0,18,10
+309,Leão,Marília Mendonça,1,2022,12,9,993,4,267789608,30,84,88,1,28,130,F#,Major,74,79,87,45,0,30,3
+336,Ain’t That Some,Morgan Wallen,1,2023,3,3,356,4,88791109,4,20,0,0,0,121,F#,Minor,64,67,80,0,0,36,3
+337,Thinkin' Bout Me,Morgan Wallen,1,2023,3,3,604,6,125917280,22,101,0,0,66,140,D#,Minor,66,43,76,49,0,12,3
+346,PLAYA DEL INGLÉS,"Myke Towers, Quevedo",2,2022,12,15,1701,15,221409663,30,15,34,2,47,113,G,Minor,79,66,74,8,0,11,5
+351,Pero Tú,"Karol G, Quevedo",2,2023,2,23,387,11,93438910,11,15,14,3,1,140,F#,Major,86,68,79,39,0,11,29
+354,Monotonía,"Ozuna, Shakira",2,2022,10,19,3645,15,380726517,118,34,150,4,19,132,,Minor,87,82,70,42,0,21,5
+355,‘98 Braves,Morgan Wallen,1,2023,3,3,282,0,56533272,6,15,0,0,0,142,D,Major,49,48,67,10,0,26,3
+364,Sem Aliança no,"MC Xenon, Os Gemeos da Putaria",2,2022,12,23,454,4,93587665,6,1,21,0,1,83,C#,Major,53,40,36,73,0,11,33
+368,LA CANCIÓN,"J Balvin, Bad Bunny",2,2019,6,28,6398,31,1435127549,177,109,305,3,5,176,G,Major,75,43,65,15,0,11,32
+369,Qué Agonía,"Yuridia, Angela Aguilar",2,2022,10,20,660,15,236857112,19,59,18,5,52,98,B,Major,73,88,57,56,0,5,2
+374,HELP EVER HURT NEVER,Fujii Kaze,1,2020,5,20,685,14,403097450,24,94,9,0,23,158,F#,Minor,60,52,76,17,0,19,5
+375,Besos Moja2,"Wisin & Yandel, ROSALÍA",2,2022,9,29,2460,13,309483971,53,7,56,3,1,94,F,Minor,74,64,73,6,0,10,6
+379,Devil Don’t Know,Morgan Wallen,1,2023,3,3,166,0,32526947,2,10,0,0,0,125,,Major,53,32,66,38,0,9,3
+380,LLYLM,ROSALÍA,1,2023,1,27,1838,0,124988687,105,41,114,1,59,170,F#,Minor,56,56,63,13,0,19,27
+392,Calm Down,Rema,1,2022,2,9,4013,10,445763624,107,44,750,22,,107,B,Major,81,82,78,38,0,12,4
+398,Muñecas,"Steve Aoki, Tini, La Joaqui",3,2023,1,12,658,6,120972253,33,7,53,2,0,90,A#,Minor,68,83,71,3,0,31,8
+411,MIDDLE OF THE NIGHT,Elley Duhé,1,2020,1,10,4057,8,872137015,78,21,240,1,52,186,E,Minor,41,9,61,2,0,12,5
+431,Evergreen (You Didn’t Deserve Me At All),Omar Apollo,1,2022,4,8,2499,0,227918678,70,0,49,0,0,82,A,Major,70,31,34,60,1,11,4
+439,Agudo Mágico 3,"Styrx, utku INC, Thezth",3,1930,1,1,323,0,90598517,4,0,14,0,0,130,F#,Minor,65,49,80,22,4,7,5
+445,It's Beginning To Look A Lot Like Christmas,Michael Bublé,1,2011,10,14,12353,0,807561936,35,0,549,0,0,93,E,Major,35,38,23,91,0,29,3
+451,Feliz Navidad,José Feliciano,1,1970,11,1,3788,0,520034544,21,3,10,0,0,148,D,Major,50,96,82,47,0,34,4
+452,Holly Jolly Christmas,Michael Bublé,1,2011,10,14,7655,0,476244795,5,0,291,0,0,151,G,Major,65,70,47,87,0,9,4
+488,Tubarão Te Amo,"Dj LK da Escócia, MC Ryan SP, Tchakabum",4,2022,9,28,1003,0,116144341,21,0,44,0,0,130,E,Minor,89,48,74,30,0,7,36
+499,Gatúbela,"Maldy, Karol G",2,2022,8,25,3328,13,322336177,39,50,57,3,1,93,B,Minor,63,34,86,26,0,21,39
+500,abcdefu,Gayle,1,2021,8,13,7215,0,1007612429,170,12,575,18,,122,E,Major,70,42,54,30,0,37,5
+514,"Here We Go... Again (feat. Tyler, the Creator)","The Weeknd, Tyler, The Creator",3,2022,1,7,1420,0,88103848,7,18,7,0,0,135,C#,Major,41,27,64,36,0,60,3
+526,Beggin,Måneskin,1,2017,12,8,8559,0,1367810478,183,64,964,9,75,134,B,Minor,71,59,80,13,0,36,5
+530,The Motto,"Tiësto, Ava",2,2021,11,4,9151,6,656013912,240,107,268,0,5,118,G,Minor,75,46,76,3,0,9,4
+536,Malvadão 3,"Xamã, Gustah, Neo B",3,2021,11,30,648,1,240684449,14,3,81,0,0,133,F#,Minor,82,52,61,38,0,14,27
+538,Don’t Break My Heart,The Weeknd,1,2022,1,7,1184,0,63803529,1,5,6,0,0,122,A#,Major,77,25,62,34,0,23,3
+543,Medallo,"Justin Quiles, Lenny Tavárez, Blessd",3,2021,10,27,2780,2,393230256,54,21,57,1,0,90,E,Minor,79,79,70,57,0,66,8
+547,Volví,"Aventura, Bad Bunny",2,2021,8,3,5375,10,673801126,138,24,133,0,1,176,C#,Major,73,79,86,42,0,7,18
+557,L'enfer ,Stromae,1,2022,1,9,2035,0,108809090,41,122,394,0,2,88,D,Minor,56,58,55,35,0,23,11
+558,Nostálgico,"Chris Brown, Rvssian, Rauw Alejandro",3,2021,9,8,2780,2,436695353,86,76,59,0,16,98,A,Minor,73,60,85,17,0,24,5
+573,Don't Be Shy,Tiësto & Karol G,2,2021,8,1,6026,0,566954746,171,51,187,1,21,120,B,Minor,77,51,79,20,0,26,6
+575,LA FAMA (with The Weeknd),"The Weeknd, ROSALÍA",2,2021,11,11,4640,3,374706940,81,93,507,6,4,136,,Minor,77,82,30,95,0,13,5
+598,The Business,Tiësto,1,2020,1,1,14311,0,1062345656,255,32,582,0,14,120,G#,Minor,80,24,62,41,2,11,23
+600,I WANNA BE YOUR SLAVE,Måneskin,1,2021,3,19,4873,0,851070493,65,88,434,3,13,133,C#,Major,75,96,61,0,0,18,4
+601,Vai Lá Em Casa Hoje,"Marília Mendonça, George Henrique & Rodrigo",2,2021,10,22,772,0,263894529,7,3,89,0,0,158,G#,Minor,46,62,83,53,0,97,28
+618,Cúrame,Rauw Alejandro,1,2021,6,25,2636,3,465959382,36,82,39,0,5,102,A,Minor,77,26,63,58,0,11,5
+622,Qué Más Pues?,"J Balvin, Maria Becerra",2,2021,1,28,8087,0,720825549,92,34,131,0,0,102,G#,Major,89,77,82,3,0,17,11
+642,Se Le Ve,"Arcangel, De La Ghetto, Justin Quiles, Lenny Tavárez, Sech, Dalex, Dimelo Flow, Rich Music",8,2021,8,12,1560,0,223319934,72,0,0,0,0,84,G,Minor,56,61,76,10,0,14,11
+644,When I'm Gone (with Katy Perry),"Katy Perry, Alesso",2,2021,12,29,3270,0,226897599,89,21,65,0,0,125,,Major,69,70,89,4,0,49,3
+645,Esqueça-me Se For Capaz,Marília Mendonça & Maiara e Maraisa,2,2021,10,14,580,0,258316038,24,92,93,0,0,122,F#,Minor,80,62,69,28,0,13,7
+646,Miénteme,"Tini, Maria Becerra",2,2021,4,29,3406,16,596152090,61,23,70,1,0,92,D,Major,85,92,54,16,0,29,7
+647,Súbelo,"Anuel Aa, Myke Towers, Jhay Cortez",3,2021,11,18,903,0,177129919,30,26,15,0,0,90,F#,Minor,63,75,75,17,0,11,8
+667,"Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA)","Quevedo, La Pantera, Juseph, Cruz Cafuné, Bejo, Abhir Hathi, EL IMA",7,2022,1,14,1034,1,245400167,19,5,12,0,0,174,F,Minor,67,74,75,44,0,7,30
+679,Problemón,"Alvaro Diaz, Rauw Alejandro",2,2021,10,22,1517,0,209768491,42,7,15,0,4,92,D,Minor,73,37,74,28,0,14,6
+682,Malvada,Zé Felipe,1,2022,1,28,601,0,154119539,28,73,64,0,0,135,F,Minor,89,89,86,16,0,8,5
+688,Mal Feito - Ao Vivo,"Marília Mendonça, Hugo & G",2,2022,1,14,971,2,291709698,35,104,93,1,0,124,,Minor,73,68,83,55,0,90,7
+693,Señorita,"Shawn Mendes, Camila Cabello",2,2019,6,19,15010,2,2484812918,453,50,"1,785",1,8,117,A,Minor,76,77,52,4,0,8,3
+700,Una Noche en Medellín,Cris Mj,1,2022,1,21,5415,32,682475162,46,16,53,1,2,96,A#,Minor,87,82,53,10,0,5,8
+705,DANÇARINA,"Mc Pedrinho, Pedro Sampaio",2,2022,2,1,911,2,208166039,45,0,99,1,1,135,A,Minor,78,55,57,4,0,10,8
+710,Chale,Eden Muñoz,1,2022,2,18,695,11,299648208,16,41,13,1,1,189,G#,Major,55,86,44,40,0,7,4
+722,Monëy so big,YEAT,1,2021,9,10,1473,0,263779030,2,0,12,0,10,138,D,Major,69,35,57,12,0,10,9
+732,X ÚLTIMA VEZ,"Daddy Yankee, Bad Bunny",2,2022,3,25,2697,1,349746291,55,3,32,0,0,90,G,Major,81,59,83,9,0,11,5
+742,Vampiro,"Matuê, Wiu, ",3,2022,1,30,540,4,187772591,26,3,39,0,0,115,G#,Minor,78,63,64,1,0,7,4
+745,Me Arrepentí,"Ak4:20, Cris Mj, Pailita",3,2022,3,30,273,2,118381354,12,2,4,0,0,92,,Major,86,91,79,29,0,60,16
+748,RUMBATÓN,Daddy Yankee,1,2022,3,25,1264,0,157990698,20,4,52,0,1,95,D#,Minor,69,90,91,6,0,35,4
+749,sentaDONA (Remix) s2,"Luísa Sonza, MC Frog, Dj Gabriel do Borel, Davi K",4,2022,3,17,870,0,176290831,32,0,49,0,0,135,D#,Minor,93,77,45,25,0,13,27
+759,"Nobody Like U - From ""Turning Red""","Jordan Fisher, Josh Levi, Finneas O'Connell, 4*TOWN (From Disney and Pixar's Turning Red), Topher Ngo, Grayson Vill",6,2022,2,25,918,0,120847157,34,39,30,0,0,105,A,Minor,91,73,72,13,0,9,15
+766,Después de la Playa,Bad Bunny,1,2022,5,6,2229,0,461558540,27,44,24,0,5,78,F,Major,56,61,90,36,0,18,31
+782,Otro Atardecer,"Bad Bunny,The Marías",2,2022,5,6,1681,7,319546754,10,30,13,0,33,108,D,Major,78,55,60,59,0,7,4
+788,Enséñame a Bailar,Bad Bunny,1,2022,5,6,1112,3,279737940,7,25,12,0,0,105,G#,Major,81,77,79,19,0,47,8
+789,El Apagón,Bad Bunny,1,2022,5,6,1209,0,212351890,9,7,14,0,1,118,G#,Major,63,60,70,5,0,9,31
+798,SUPERMODEL,Måneskin,1,2022,5,13,2265,0,231657891,93,12,173,11,3,121,G,Major,64,80,88,0,0,12,6
+810,TUS LÁGRIMAS ,"Sech, Mora",2,2022,4,1,1308,2,184622518,23,16,9,0,5,174,C#,Major,68,45,71,18,0,11,25
+823,This Love (Taylor's Version),Taylor Swift,1,2022,5,6,1492,0,132171975,26,2,15,0,2,144,E,Major,47,7,50,32,0,7,4
+837,La Llevo Al Cielo (Ft. Ñengo Flow),"Nengo Flow, Anuel Aa, Chris Jedi, Chencho Corleone",4,2022,5,20,3559,3,333146475,36,1,31,0,1,170,A,Minor,80,77,85,11,0,17,14
+863,BREAK MY SOUL,Beyoncé,1,2022,6,21,9724,0,354614964,222,61,259,14,2,115,C#,Minor,70,87,88,4,0,26,8
+869,Layla,DJ Robin x Schürze,2,2022,3,24,832,3,130419412,18,124,24,1,0,140,F,Minor,44,41,92,0,0,44,7
+881,cómo dormiste?,Rels B,1,2022,8,4,1452,35,331511413,16,15,20,0,0,126,C#,Major,63,56,43,24,0,12,23
+885,Si Te La Encuentras Por Ahí,Feid,1,2022,8,5,1379,4,179061440,23,10,18,0,0,172,G#,Minor,74,46,58,15,0,13,8
+887,ALIEN SUPERSTAR,Beyoncé,1,2022,7,29,2688,0,171788484,39,47,36,0,0,122,A#,Minor,55,46,64,0,0,17,10
+913,XQ Te Pones Así,"Yandel, Feid",2,2022,9,13,308,0,47093942,6,1,6,0,0,92,A#,Major,81,48,70,13,0,15,7
+915,SIN SEÑAL,"Ovy On The Drums, Quevedo",2,2022,7,22,1097,2,209106362,18,10,13,1,1,118,B,Minor,82,75,85,33,1,11,4
+918,THE LONELIEST,Måneskin,1,2022,10,7,1585,5,225093344,78,65,328,1,198,130,D,Major,52,24,60,0,0,8,3
+929,Bamba (feat. Aitch & BIA),"Luciano, Aitch, BIA",3,2022,9,22,869,7,146223492,14,12,12,2,28,138,A#,Major,80,82,81,14,0,13,36

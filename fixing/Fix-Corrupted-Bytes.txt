@@ -1,0 +1,54 @@
+ef bb bf -- Closest valid code point
+1110 1111 1011 1011 1011 1111
+feff (Prefix signature for utf-8)
+
+ef bd bf -- Not found in data
+1110 1111 1011 1101 1011 1111
+ff7f (Japanese in utf-8, ï½¿ in latin-1)
+
+ef bf bd -- Found 1443 matchings
+1110 1111 1011 1111 1011 1101
+fffd (� Error replacement in utf-8, ï¿½ in latin-1)
+
+ef bf -- Found 157 matchings
+1110 1111 1011 1111
+invalid utf-8 (ï¿ in latin-1)
+
+ef -- Found 51 matchings
+1110 1111
+invalid utf-8 (ï in latin-1)
+
+fd -- Found as (fd)+ 84 matchings
+1111 1101
+invalid utf-8 (ý in latin-1)
+
+Change ISRC and it works
+Idex 57 (5): Change ISRC to QZNJW2423711 (Double checked)
+Index 400 (44): Change ISRC to USUYG1142046 (Double checked)
+Index 480 (53): Change ISRC to USFM91100003 (Double checked)
+Index 1345 (164): Change ISRC to QZGLS2484890 (Double checked)
+Index 1538 (182): Change ISRC to TCJPB2437797 (Double checked)
+Index 1561 (187): Change ISRC to US3DF2402926 (Double checked)
+Index 1817 (210): Change ISRC to USUM71020778 (Double checked)
+Index 2268 (266): Change ISRC to USCGJ1992746 (Double checked)
+Index 2419 (293): Change ISRC to USCGH1880295 (Double checked)
+Index 2556 (318): Change ISRC to USWL11801231 (Double checked)
+Index 2700 (341): Change ISRC to BXIV82274619
+Index 3402 (435): Change ISRC to CLKT22003149
+Index 3467 (447): Change ISRC to FRZ116000530
+Index 4113 (530): Change ISRC to QM4TX2328407
+Index 5486 (594): Change ISRC to USAT21701762
+
+Valid song but invalid ISRC
+Index 539 (61): Cuando Te Amé, Cupula Roja
+Index 2856 (368): Não Vou Namorar, DJ Ws da Igrejinha
+Index 4560 (592): Supera, Marília Mendonça
+
+Broken
+Index 311 (32): Cool, No Artist, Invalid ISRC
+
+2023 Data
+(fd)+ count: 4
+efbfbd count: 202
+efbf count: 23
+ef count: 6
